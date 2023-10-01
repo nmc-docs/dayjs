@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhtml=self.webpackChunkhtml||[]).push([[531],{7279:e=>{e.exports=JSON.parse('{"title":"Timezone","slug":"/category/timezone","permalink":"/dayjs/category/timezone","navigation":{"previous":{"title":"Query","permalink":"/dayjs/query"},"next":{"title":"Convert to another timezone","permalink":"/dayjs/timezone/convert-to-another-timezone"}}}')}}]);
