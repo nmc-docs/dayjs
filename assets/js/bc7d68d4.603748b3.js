@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhtml=self.webpackChunkhtml||[]).push([[68],{6748:t=>{t.exports=JSON.parse('{"title":"Get, Set","slug":"/category/get-set","permalink":"/dayjs/category/get-set","navigation":{"previous":{"title":"Kh\u1edfi t\u1ea1o Dayjs","permalink":"/dayjs/dayjs-constructor"},"next":{"title":"Get","permalink":"/dayjs/get-set/get"}}}')}}]);
